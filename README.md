@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I+AM+Aritra Das;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">3rd Year Computer Science and Engineering Student at American International University - Bangladesh</h3>
+<h3 align="center">Final Year Computer Science and Engineering Student at American International University - Bangladesh</h3>
 <p align="center">
     <a href="https://github.com/aritradas080/aritradas080/actions">
       <img alt="Tests Passing" src="https://img.shields.io/static/v1?label=Test&message=Passing&color=limegreen&logo=github" />
