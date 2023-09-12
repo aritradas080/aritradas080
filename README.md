@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aritradas080&label=Profile%20Views&color=1&icon=5&pretty=false" />
+<!--   <img src="https://visitcount.itsvg.in/api?id=aritradas080&label=Profile%20Views&color=1&icon=5&pretty=false" /> -->
 </a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
