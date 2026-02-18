@@ -6,6 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I+am+Aritra+Das;&center=true&size=30">
   </a>
 </h1>
+<h3 align="center">Erasmus Mundus Joint Master's Student in Intelligent Field Robotics Systems at Universitat de Girona
+Girona, Spain</h3>
 <h3 align="center">Research Assistant at Advanced Machine Intelligence Research Lab</h3>
 <p align="center">
     <a href="https://github.com/aritradas080/aritradas080/actions">
